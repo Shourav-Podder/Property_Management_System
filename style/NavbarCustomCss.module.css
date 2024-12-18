@@ -1,0 +1,8 @@
+.theSocialLinkIcon{
+    background: gainsboro;
+    transition-duration: 200;
+}
+.theSocialLinkIcon:hover{
+    background: rgb(137, 137, 137);
+    transition-duration: 800;
+}

@@ -1,0 +1,64 @@
+
+
+.testing{
+  color: red
+} 
+
+.orderExtraItemButton{
+  background: white;
+  color: black;
+  border-radius: 4px;
+  transition-duration: 300ms;
+}
+.orderExtraItemButton:hover{
+  background: black;
+  color: white;
+  border: 1px solid white;
+  border-radius: 4px;
+  transition-duration: 300ms;
+}
+.loginUserAvatar{
+  background: linear-gradient(to right, #3498db, #2c3e50);
+  padding: 5px;
+  border-radius: 50%;
+  border: 2px solid black;
+  width: 150px;
+  height: 150px;
+}
+
+
+
+
+.homeCard {
+  position: absolute;
+  top: 50%; 
+  left: 50%; 
+  background-color: #2c3e5098;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+
+.homeContent {
+  text-align: center; 
+  margin-top: 50px; 
+  padding: 20px;
+}
+
+.homeTitle {
+  font-size: 36px; 
+  font-weight: bold; 
+  color: #ffffff; 
+}
+
+.homeDescription {
+  font-size: 18px;
+  color: #1af149; 
+  margin-top: 15px; 
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6; 
+}
+
+
